@@ -1,0 +1,27 @@
+body {
+    background-color: #f4f4f9;
+}
+
+.container {
+    max-width: 600px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+#webcam {
+    width: 100%;
+    height: auto;
+    border: 2px solid #2c3e50;
+}
+
+#attendanceStatus {
+    font-size: 18px;
+    text-align: center;
+}
+
+#alertMessages {
+    font-size: 18px;
+    text-align: center;
+}
